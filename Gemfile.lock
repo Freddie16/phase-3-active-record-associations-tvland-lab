@@ -3,7 +3,7 @@ GEM
   specs:
     activemodel (6.1.4)
       activesupport (= 6.1.4)
-    activerecord (6.1.4)
+    activerecord 
       activemodel (= 6.1.4)
       activesupport (= 6.1.4)
     activesupport (6.1.4)
